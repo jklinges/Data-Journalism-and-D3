@@ -13,11 +13,11 @@ File Structure:
 •	The base webpage template is index.html.
 •	The assets folder contains everything else of relevance
 •	assets/css holds two styling files, styles.css and d3style.css
-•	assets/data holds the data set in data.csv
+•	assets/dataset in data.csv
 •	assets/js holds .eslintrc.json and app.js, the latter of which runs the javascript code that contains the visua lization
 
 Running:
-Due to loading in a csv file, many browsers will fail to load this unless run on an http server.  I checked the data was being pulled via the console function and pulled data using the local (host.8000)server.
+Due to loading in a csv file, many browsers will fail to load this unless run on an http server.  I checked the data was being pulled via the console function and pulled data using the "source activate pythondata" command to connect with the local HTTP (host.8000)server.
 
 • An Analysis is included on the webpage and was derived by clicking the x/y labels to change the values of the chart.
 
