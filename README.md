@@ -16,7 +16,7 @@ File Structure:
 •	assets/dataset in data.csv
 •	assets/js holds .eslintrc.json and app.js, the latter of which runs the javascript code that contains the visua lization
 
-Running:
+• Running:
 Due to loading in a csv file, many browsers will fail to load this unless run on an http server.  I checked the data was being pulled via the console function and pulled data using the "source activate pythondata" command to connect with the local HTTP (host.8000)server.
 
 • An Analysis is included on the webpage and was derived by clicking the x/y labels to change the values of the chart.
